@@ -16,7 +16,3 @@ b = int(input())
 result = a + b
 print(result)
 
-for number in range(a, b + 1):
-    print(number)
-for number in range(a, b, -1):
-    print(number)
