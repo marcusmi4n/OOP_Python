@@ -15,7 +15,7 @@
             ],
             "django": true,
             "autoStartBrowser": false,
-            "program": "${workspaceFolder}/manage.py"
+            "program": "${workspaceFolder}/Django/storefront/manage.py"
         }
     ]
 }
